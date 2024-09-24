@@ -1,6 +1,6 @@
 {
   "name": "@nurihaus/eslint-plugin-nuri",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint-plugin-nuri 입니다.",
   "main": "lib/index.js",
   "files": [
